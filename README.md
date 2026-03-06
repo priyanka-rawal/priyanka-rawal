@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋 I'm Priyanka Rawal
 
-<!--
-**priyanka-rawal/priyanka-rawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring MERN Stack Developer  
+🌱 Currently learning HTML, CSS, JavaScript and React  
+🚀 Goal: Become a Full Stack Developer  
 
-Here are some ideas to get you started:
+🛠 Skills
+- HTML
+- CSS
+- JavaScript (Learning)
+- React (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me
+Email: priyankarawal0327@gmail.com
+LinkedIn: https://www.linkedin.com/in/priyanka-rawal-218a27271
