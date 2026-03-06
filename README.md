@@ -11,5 +11,7 @@ Hi 👋 I'm Priyanka Rawal
 - React (Learning)
 
 📫 Connect with me
+
 Email: priyankarawal0327@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/priyanka-rawal-218a27271
